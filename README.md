@@ -1,5 +1,7 @@
 # mytweets
 
+![](http://g.recordit.co/22y9oPZFhF.gif)
+
 ## Getting Started
 
 Make sure you are using a virtual environment of some sort (e.g. `virtualenv` or
